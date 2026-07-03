@@ -1,0 +1,6 @@
+{
+  "name": "ClutterClear AI",
+  "description": "Upload a photo of your room for AI-powered organization and decluttering suggestions, with an interactive chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
